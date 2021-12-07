@@ -62,11 +62,25 @@
 
 ### 14 R, R Square & Adjusted R Square (Theory)
 
-### 15 Regression Output Explained Part 1 (Theory)
+### 15 Hypothesis Testing (Theory)
 
-### 16 Regression Output Explained Part 2 (Theory)
+### 16 P Values (Theory)
 
-### 17 Simple & Multiple Regression in Python (Code)
+### 17 Level of Significance (Theory)
+
+### 18 Normal Distribution (Theory)
+
+### 19 Confidence Interval & CLT (Theory)
+
+### 20  Standard Error (Theory)
+
+### 21 AIC & BIC (Theory)
+
+### 22 Regression Output Explained Part 1 (Theory)
+
+### 23 Regression Output Explained Part 2 (Theory)
+
+### 24 Simple & Multiple Regression in Python (Code)
   - Step by step code of Simple & Multiple Regression
 
-### 18 Interview Questions: Simple & Multiple (Theory)
+### 25 Interview Questions: Simple & Multiple (Theory)
